@@ -3,6 +3,11 @@
 ## Overview
 The **Grocery Store Management System** is a full-stack web application designed to streamline the management of grocery store operations. This system enables store administrators to manage products, track inventory, handle customer orders, and monitor sales trends efficiently. The platform also includes data analytics to provide insights into product performance and optimize store management. The application is built using **Flask** for the backend, **MySQL** as the database, and **HTML, CSS, Bootstrap, and JavaScript** for the frontend.
 
+## Demo Video
+
+https://github.com/user-attachments/assets/363c6b6b-952f-4db0-83f0-18e816349e03
+
+
 ## Features
 - **Inventory Management:**  
   Track stock levels for grocery items, with options to add, update, or delete products from the inventory.
